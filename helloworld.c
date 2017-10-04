@@ -6,3 +6,4 @@ main()
 	char s = "this is a test";
 	printf("%s %d\n",s,i);
 }
+//change in master
